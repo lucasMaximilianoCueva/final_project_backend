@@ -1,0 +1,73 @@
+{"level":50,"time":1633162995563,"pid":7083,"hostname":"MacBook-Pro-de-Lucas.local","msg":"Error en servidor: Error: listen EADDRINUSE: address already in use :::5000"}
+{"level":50,"time":1633163632484,"pid":7299,"hostname":"MacBook-Pro-de-Lucas.local","msg":"Error en servidor: Error: listen EADDRINUSE: address already in use :::5000"}
+{"level":50,"time":1633208357756,"pid":3762,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Error en servidor: Error: listen EADDRINUSE: address already in use :::5000"}
+{"level":50,"time":1633209564667,"pid":4730,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Error en servidor: Error: listen EADDRINUSE: address already in use :::5000"}
+{"level":50,"time":1633209919181,"pid":5043,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Error en servidor: Error: listen EADDRINUSE: address already in use :::5000"}
+{"level":30,"time":1633209920971,"pid":5043,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Connected to Mongo! Database name: \"ecommerce\""}
+{"level":30,"time":1633209920971,"pid":5043,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"mongoDB (user)"}
+{"level":30,"time":1633209920982,"pid":5043,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"checkout connected to the base"}
+{"level":40,"time":1633209947053,"pid":5043,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"not logged"}
+{"level":40,"time":1633209947060,"pid":5043,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"not logged"}
+{"level":50,"time":1633210052620,"pid":5173,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Error en servidor: Error: listen EADDRINUSE: address already in use :::5000"}
+{"level":30,"time":1633210054423,"pid":5173,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"checkout connected to the base"}
+{"level":30,"time":1633210054426,"pid":5173,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Connected to Mongo! Database name: \"ecommerce\""}
+{"level":30,"time":1633210054426,"pid":5173,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"mongoDB (user)"}
+{"level":30,"time":1633230896033,"pid":12811,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Servidor express escuchando en el puerto 5000"}
+{"level":30,"time":1633230897853,"pid":12811,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"checkout connected to the base"}
+{"level":30,"time":1633230897861,"pid":12811,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Connected to Mongo! Database name: \"ecommerce\""}
+{"level":30,"time":1633230897861,"pid":12811,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Connected to Mongo! Database name: \"ecommerce\""}
+{"level":30,"time":1633230897861,"pid":12811,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"mongoDB (user)"}
+{"level":30,"time":1633230897869,"pid":12811,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"chat connected to the base"}
+{"level":30,"time":1633230926045,"pid":12811,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"user connected! (chat)"}
+{"level":40,"time":1633230926055,"pid":12811,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"not logged"}
+{"level":40,"time":1633230926060,"pid":12811,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"not logged"}
+{"level":40,"time":1633230928741,"pid":12811,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"not logged"}
+{"level":30,"time":1633233218367,"pid":14275,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Servidor express escuchando en el puerto 5000"}
+{"level":30,"time":1633233219508,"pid":14275,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"user connected! (chat)"}
+{"level":30,"time":1633233220197,"pid":14275,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Connected to Mongo! Database name: \"ecommerce\""}
+{"level":30,"time":1633233220197,"pid":14275,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Connected to Mongo! Database name: \"ecommerce\""}
+{"level":30,"time":1633233220197,"pid":14275,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"mongoDB (user)"}
+{"level":30,"time":1633233220619,"pid":14275,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"chat connected to the base"}
+{"level":30,"time":1633233220641,"pid":14275,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"checkout connected to the base"}
+{"level":30,"time":1633233224917,"pid":14275,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"user disconnected (chat)"}
+{"level":30,"time":1633233225046,"pid":14275,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"user connected! (chat)"}
+{"level":40,"time":1633233225053,"pid":14275,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"not logged"}
+{"level":40,"time":1633233225059,"pid":14275,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"not logged"}
+{"level":40,"time":1633233227024,"pid":14275,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"not logged"}
+{"level":30,"time":1633233294966,"pid":14300,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Servidor express escuchando en el puerto 5000"}
+{"level":30,"time":1633233296791,"pid":14300,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Connected to Mongo! Database name: \"ecommerce\""}
+{"level":30,"time":1633233296791,"pid":14300,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Connected to Mongo! Database name: \"ecommerce\""}
+{"level":30,"time":1633233296792,"pid":14300,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"mongoDB (user)"}
+{"level":30,"time":1633233296793,"pid":14300,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"chat connected to the base"}
+{"level":30,"time":1633233296794,"pid":14300,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"checkout connected to the base"}
+{"level":30,"time":1633236576672,"pid":16773,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Servidor express escuchando en el puerto 5000"}
+{"level":30,"time":1633236578477,"pid":16773,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"checkout connected to the base"}
+{"level":30,"time":1633236578506,"pid":16773,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"chat connected to the base"}
+{"level":30,"time":1633236578515,"pid":16773,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Connected to Mongo! Database name: \"ecommerce\""}
+{"level":30,"time":1633236578515,"pid":16773,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Connected to Mongo! Database name: \"ecommerce\""}
+{"level":30,"time":1633236578516,"pid":16773,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"mongoDB (user)"}
+{"level":30,"time":1633236581660,"pid":16773,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"user connected! (chat)"}
+{"level":30,"time":1633236582404,"pid":16773,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"user disconnected (chat)"}
+{"level":30,"time":1633236584791,"pid":16773,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"user connected! (chat)"}
+{"level":30,"time":1633236599417,"pid":16814,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Servidor express escuchando en el puerto 5000"}
+{"level":30,"time":1633236601155,"pid":16814,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"chat connected to the base"}
+{"level":30,"time":1633236601205,"pid":16814,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Connected to Mongo! Database name: \"ecommerce\""}
+{"level":30,"time":1633236601205,"pid":16814,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Connected to Mongo! Database name: \"ecommerce\""}
+{"level":30,"time":1633236601205,"pid":16814,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"mongoDB (user)"}
+{"level":30,"time":1633236601205,"pid":16814,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"checkout connected to the base"}
+{"level":30,"time":1633236603548,"pid":16814,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"user connected! (chat)"}
+{"level":30,"time":1633236605384,"pid":16814,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"user disconnected (chat)"}
+{"level":30,"time":1633236607950,"pid":16814,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"user connected! (chat)"}
+{"level":30,"time":1633241164610,"pid":1742,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Servidor express escuchando en el puerto 5000"}
+{"level":30,"time":1633241166462,"pid":1742,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"checkout connected to the base"}
+{"level":30,"time":1633241166472,"pid":1742,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Connected to Mongo! Database name: \"ecommerce\""}
+{"level":30,"time":1633241166472,"pid":1742,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"Connected to Mongo! Database name: \"ecommerce\""}
+{"level":30,"time":1633241166473,"pid":1742,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"mongoDB (user)"}
+{"level":30,"time":1633241166473,"pid":1742,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"chat connected to the base"}
+{"level":30,"time":1633241183356,"pid":1742,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"user connected! (chat)"}
+{"level":40,"time":1633241183360,"pid":1742,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"not logged"}
+{"level":40,"time":1633241183367,"pid":1742,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"not logged"}
+{"level":30,"time":1633241192193,"pid":1742,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"user disconnected (chat)"}
+{"level":40,"time":1633241192306,"pid":1742,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"not logged"}
+{"level":30,"time":1633241192308,"pid":1742,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"user connected! (chat)"}
+{"level":40,"time":1633241192311,"pid":1742,"hostname":"MBP-de-Lucas.fibertel.com.ar","msg":"not logged"}

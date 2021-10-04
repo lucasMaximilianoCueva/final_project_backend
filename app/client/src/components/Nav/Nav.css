@@ -1,0 +1,27 @@
+.nav-horizontal {
+    background-color: white;
+}
+
+nav img {
+    border-radius: 50px;
+}
+
+.btn-login {
+    background-color: #4ad493;
+}
+.btn-login:hover {
+    background-color: #42c287;
+}
+.right-side-nav {
+    display: flex;
+    flex-direction: row;
+}
+.cart {
+    margin-right: 20px;
+}
+@media (max-width: 735px) {
+.mongo-cars {
+    display: flex;
+    flex-direction: row;
+}
+}

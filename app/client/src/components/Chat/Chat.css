@@ -1,0 +1,61 @@
+* {box-sizing: border-box;}
+.buttons {
+  height: 200;
+  width: 200;
+  background-color: white;
+}
+.open-button {
+  background-color: #555;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  opacity: 0.8;
+  position: fixed;
+  bottom: 23px;
+  right: 28px;
+  width: 280px;
+}
+
+/* The popup chat - hidden by default */
+.chat-popup {
+  display: none;
+  position: fixed;
+  width: 300px;
+  bottom: 0;
+  right: 15px;
+  border: 3px solid #f1f1f1;
+  z-index: 9;
+}
+
+/* Add styles to the form container */
+.form-container {
+  max-width: 300px;
+  max-height: 300px;
+  min-height: 300px;
+  padding: 10px;
+  background-color: white;
+  overflow-y: scroll;
+}
+
+/* Set a style for the submit/send button */
+.buttons .btn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  margin-bottom:10px;
+  opacity: 0.8;
+}
+
+/* Add a red background color to the cancel button */
+.buttons .cancel {
+  background-color: red;
+}
+
+/* Add some hover effects to buttons */
+.buttons .btn:hover, .open-button:hover {
+  opacity: 1;
+}
